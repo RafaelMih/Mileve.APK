@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
     private var webView: WebView? = null
-    private var url: String = "https://www.google.com"
+    private var url: String = "https://rlsantoslr.github.io/Mileve/login"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
